@@ -52,7 +52,7 @@ export default function Footer() {
             <li>
               <div className="flex items-start gap-2">
                 <MapPin size={16} className="text-blue-400 shrink-0 mt-1" />
-                <span>Police Chowki, Near GS Model School, Sec-62, Noida, Ghaziabad,  U.P, 201309</span>
+                <span>B-65, Rajveer Colony, Gharoli Extension, Kondli,  East Delhi 110096</span>
               </div>
             </li>
           </ul>
